@@ -1,0 +1,44 @@
+:root {
+  --White: hsl(0, 0%, 100%);
+  --Lightgray: hsl(212, 45%, 89%);
+  --Grayishblue: hsl(220, 15%, 55%);
+  --Darkblue: hsl(218, 44%, 22%);
+}
+body {
+  font-family: "Outfit", sans-serif;
+  font-size: 15px;
+  background-color: var(--Lightgray);
+  text-align: center;
+}
+.container {
+  background-color: var(--White);
+  padding-top: 15px;
+  margin: 3.8em auto 1em;
+  width: 308px;
+  height: 465px;
+  border-radius: 15px;
+  box-shadow: 0px 1px 8px var(--Grayishblue);
+}
+p {
+  color: var(--Grayishblue);
+  margin: 0 15px;
+  padding: 0 1em;
+}
+h2 {
+  color: var(--Darkblue);
+  padding: 0 0.5em;
+}
+img {
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+  width: 280px;
+  height: 280px;
+}
+.attribution {
+  font-size: 14px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
