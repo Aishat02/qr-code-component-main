@@ -22,8 +22,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/qrcodecomponentmain-Jc5cJh9QCt)
+- Live Site URL: [Netlify](preeminent-vacherin-913efc.netlify.app)
+- Live Site URL: [Github Pages](https://aishat02.github.io/qr-code-component-main/)
 
 ## My process
 
